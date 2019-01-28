@@ -1,7 +1,6 @@
 # Business-Intelligence
 
-
-Lab Assignment 1: Warming up on Python
+#Lab Assignment 1: Warming up on Python
 
 Deadline: 21.1.2019
 
